@@ -1,5 +1,5 @@
 # TFG
-Development of a tool to be able to distribute the sound spatially in real time
+Development of a tool to be able to distribute the sound in the 3D space in real time
 # Dependencies:
 the SWFEncoder class (https://github.com/quiMkonG/tfg-swf) and the HRTFnova folders and arrays must be in the extensions folder.
 # Usage:
